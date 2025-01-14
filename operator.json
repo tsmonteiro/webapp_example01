@@ -1,5 +1,5 @@
 {
-    "name": "WebApp Template",
+    "name": "WebApp Example",
     "description": "",
     "isWebApp": true,
     "isViewOnly": false,
@@ -11,11 +11,11 @@
       "tercen"
     ],
     "urls": [
-      "https://github.com/tercen/webapp_template"
+      "https://github.com/tsmonteiro/webapp_example01"
     ],
     "serve": "build/web",
     "properties": [
   
     ],
-    "auth": ["google"]
+    "auth": ["basic"]
   }
